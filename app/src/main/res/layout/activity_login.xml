@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:background="@color/bg_register"
     android:fitsSystemWindows="true"
-    tools:context=".activity.LoginFragment">
+    tools:context=".activity.LoginActivity">
 
     <LinearLayout
         android:layout_width="fill_parent"

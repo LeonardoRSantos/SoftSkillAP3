@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@color/bg_register"
     android:fitsSystemWindows="true"
-    tools:context=".activity.ConfiguracoesFragment">
+    tools:context=".activity.ConfiguracoesActivity">
 
     <LinearLayout
         android:layout_width="match_parent"

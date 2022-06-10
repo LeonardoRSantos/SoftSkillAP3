@@ -5,8 +5,18 @@
       <map>
         <entry key="..\:/Users/leona/AndroidStudioProjects/Soft/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1795" />
         <entry key="..\:/Users/leona/AndroidStudioProjects/Soft/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1795" />
+        <entry key="..\:/Users/leona/AndroidStudioProjects/Soft/app/src/main/res/layout/activity_cadastrar.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/leona/AndroidStudioProjects/Soft/app/src/main/res/layout/activity_configuracoes.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/leona/AndroidStudioProjects/Soft/app/src/main/res/layout/activity_descricao.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/leona/AndroidStudioProjects/Soft/app/src/main/res/layout/activity_login.xml" value="0.1956521739130435" />
         <entry key="..\:/Users/leona/AndroidStudioProjects/Soft/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/leona/AndroidStudioProjects/Soft/app/src/main/res/layout/activity_perfil.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/leona/AndroidStudioProjects/Soft/app/src/main/res/layout/activity_post.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/leona/AndroidStudioProjects/Soft/app/src/main/res/layout/activity_post_feed.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/leona/AndroidStudioProjects/Soft/app/src/main/res/layout/activity_redefinir_senha.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/leona/AndroidStudioProjects/Soft/app/src/main/res/layout/activity_soft.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/leona/AndroidStudioProjects/Soft/app/src/main/res/layout/activity_splash.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/leona/AndroidStudioProjects/Soft/app/src/main/res/layout/activity_splashragment.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/leona/AndroidStudioProjects/Soft/app/src/main/res/layout/app_bar_main.xml" value="0.22" />
         <entry key="..\:/Users/leona/AndroidStudioProjects/Soft/app/src/main/res/layout/card.xml" value="0.25" />
         <entry key="..\:/Users/leona/AndroidStudioProjects/Soft/app/src/main/res/layout/content_main.xml" value="0.27291666666666664" />
@@ -26,6 +36,7 @@
         <entry key="..\:/Users/leona/AndroidStudioProjects/Soft/app/src/main/res/layout/nav_header_main.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/leona/AndroidStudioProjects/Soft/app/src/main/res/menu/activity_main_drawer.xml" value="0.5" />
         <entry key="..\:/Users/leona/AndroidStudioProjects/Soft/app/src/main/res/menu/main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/leona/AndroidStudioProjects/Soft/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1525" />
       </map>
     </option>
   </component>
