@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "769684258013",
+    "firebase_url": "https://softskillap3-default-rtdb.firebaseio.com",
+    "project_id": "softskillap3",
+    "storage_bucket": "softskillap3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769684258013:android:fe1fbb540960aff6326f34",
+        "android_client_info": {
+          "package_name": "com.example.soft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769684258013-onfu3c7oq33eq1fmfedrtqvnegcgugih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.soft",
+            "certificate_hash": "c0d27578ff3315ff6625c5089fbaa2b3406f5437"
+          }
+        },
+        {
+          "client_id": "769684258013-vrmpmjrqqpg0b8ok347tnjgmfkaq0dgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0hzeZXrtJObDQBdy27KGfZloOyRFsvNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769684258013-vrmpmjrqqpg0b8ok347tnjgmfkaq0dgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -12,7 +12,7 @@
         <activity
             android:name=".activity.SplashActivity"
             android:label="SoftJob"
-            android:theme="@style/AppTheme.NoActionBar"
+            android:theme="@style/AppTheme"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -27,7 +27,7 @@
 
         </activity>
         <activity
-            android:name=".MainActivity"
+            android:name=".activity.MainActivity"
             android:label="SoftJob"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".activity.RedefinirSenhaActivity">
@@ -55,5 +55,6 @@
         </activity>
 
     </application>
+
 
 </manifest>

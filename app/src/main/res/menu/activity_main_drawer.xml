@@ -16,7 +16,7 @@
         <item
             android:id="@+id/nav_profile"
             android:icon="@drawable/picture"
-            android:title="Meu Perfil/TrabalhoAtualizado" />
+            android:title="MeuPerfil/TrabalhoAtualizado" />
         <item
             android:id="@+id/nav_Settings"
             android:icon="@drawable/settings"

@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context=".activity.PostFeedFragment"
+    tools:context=".activity.PostFeedActivity"
     tools:showIn="@layout/activity_post_feed">
 
     <androidx.recyclerview.widget.RecyclerView
