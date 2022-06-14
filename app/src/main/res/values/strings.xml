@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Soft Skills</string>
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Abrir a gaveta de navegação</string>
+    <string name="navigation_drawer_close">Fechar gaveta de navegação</string>
     <string name="nav_header_title">Android Studio</string>
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
@@ -13,180 +13,181 @@
     <string name="app_name1">Firebase Auth</string>
     <string name="action_sign_in_short">Cadastrar</string>
     <string name="emaill">Email</string>
-    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
-    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
-    <string name="change_email">Change Email</string>
-    <string name="change_password">Change Password</string>
-    <string name="send_password_reset_email">Send Password reset email</string>
-    <string name="remove_user">Remove user</string>
-    <string name="new_pass">New Password</string>
+    <string name="minimum_password">Senha muito curta, digite no mínimo 6 caracteres!</string>
+    <string name="auth_failed">Falha na autenticação, verifique seu e-mail e senha ou inscreva-se</string>
+    <string name="change_email">Trocar de e-mail</string>
+    <string name="change_password">Trocar Senha</string>
+    <string name="send_password_reset_email">Enviar e-mail de redefinição de senha</string>
+    <string name="remove_user">Remover usuário</string>
+    <string name="new_pass">Nova Senha</string>
     <string name="title_activity_profile">Firebase</string>
-    <string name="title_activity_login">Sign in</string>
+    <string name="title_activity_login">Entrar</string>
     <string name="hint_email">Email</string>
-    <string name="hint_password">Password</string>
-    <string name="hint_name">Fullname</string>
+    <string name="hint_password">Senha</string>
+    <string name="hint_name">Nome completo</string>
     <string name="btn_login">LOGIN</string>
-    <string name="btn_link_to_register">Not a member? Get registered in Firebase now!</string>
+    <string name="btn_link_to_register">Não é um membro? Registre-se no Firebase agora!</string>
     <string name="btn_link_to_login">Já é registrado? Entre!</string>
     <string name="title_activity_reset_password">ResetPasswordActivity</string>
-    <string name="btn_forgot_password">Esqueceu a Senha?</string>
+    <string name="btn_forgot_password">Esqueceu a Senha ?</string>
     <string name="btn_reset_password">Redefinir</string>
     <string name="btn_back"><![CDATA[<< Voltar]]></string>
     <string name="hint_new_email">Novo Email</string>
-    <string name="btn_change">Change</string>
-    <string name="btn_send">Send</string>
-    <string name="btn_remove">Remove</string>
-    <string name="btn_sign_out">Sign Out</string>
+    <string name="btn_change">Mudar</string>
+    <string name="btn_send">Enviar</string>
+    <string name="btn_remove">Remover</string>
+    <string name="btn_sign_out">Sair</string>
     <string name="lbl_forgot_password">Esqueceu a Senha?</string>
     <string name="forgot_password_msg">Informe seu E-mail para recuperar a senha!</string>
     <string name="email2">Email</string>
-    <string name="password2">Password</string>
+    <string name="password2">Senha</string>
     <string name="todo2">TODO</string>
     <string name="email3">Email</string>
-    <string name="password3">Password</string>
+    <string name="password3">Senha</string>
     <string name="login">Login</string>
-    <string name="forgot_password">Esqueceu a senha</string>
+    <string name="forgot_password">Esqueceu a Senha ?</string>
     <string name="register">Register</string>
     <string name="new_password">Nova Senha</string>
     <string name="password">Senha</string>
-    <string name="change_password1">Change password</string>
+    <string name="change_password1">Trocar de Senha</string>
     <string name="dont_have_an_account_regsiter">Cadastrar Usuário</string>
-    <string name="enter_password">Enter Password</string>
-    <string name="enter_bloodtype">Enter BloodType</string>
+    <string name="enter_password">Digite a Senha</string>
+    <string name="enter_bloodtype">Digite o tipo sanguíneo</string>
     <string name="jessyka_swan">Jessyka swan</string>
     <string name="team_leader">Team leader</string>
-    <string name="invited">Invited</string>
-    <string name="blood_type">Blood Type</string>
-    <string name="name">Name</string>
-    <string name="enter_name">Enter Name</string>
-    <string name="enter_address">Enter Address</string>
-    <string name="enter_email">Enter Email</string>
-    <string name="mobile_number1">mobile number</string>
-    <string name="save">Save</string>
-    <string name="enter_bloodtype1">Enter Bloodtype</string>
-    <string name="view_userdetails">view Userdetails</string>
+    <string name="invited">Convidar</string>
+    <string name="blood_type">Tipo sanguíneo</string>
+    <string name="name">Nome</string>
+    <string name="enter_name">Digite o Nome</string>
+    <string name="enter_address">Insira o endereço</string>
+    <string name="enter_email">Digite o Email</string>
+    <string name="mobile_number1">Numero do Telefone</string>
+    <string name="save">Salvar</string>
+    <string name="enter_bloodtype1">Digite o Tipo Sanguineo</string>
+    <string name="view_userdetails">ver detalhes do usuário</string>
     <string name="title_activity_main2">Main2Activity</string>
-    <string name="post_your_blood_request">Post Your Blood Request</string>
-    <string name="enter_your_blood_type">Enter Your Blood-Type</string>
-    <string name="enter_your_city">enter your city</string>
+    <string name="post_your_blood_request">Poste seu pedido de sangue</string>
+    <string name="enter_your_blood_type">Digite seu tipo sanguíneo</string>
+    <string name="enter_your_city">Digite sua cidade</string>
     <string name="submit"><![CDATA[submit >>]]></string>
     <string name="Enter_Your_City" />
-    <string name="enter_your_city1">Enter_Your_City</string>
+    <string name="enter_your_city1">Digite_Sua_Cidade</string>
     <string name="mobile_number">Numero Celular</string>
     <string name="post"><![CDATA[<<Post>>]]></string>
-    <string name="hospital_name">Hospital Name</string>
+    <string name="hospital_name">Nome do hospital</string>
     <string name="your_description" />
-    <string name="your_description1">Your description</string>
+    <string name="your_description1">Sua descrição</string>
     <string name="sign_out" />
-    <string name="SiignOut">Sign Out</string>
-    <string name="communicate">Communicate</string>
-    <string name="share">Share</string>
-    <string name="users_list">Users List</string>
+    <string name="SiignOut">Sair</string>
+    <string name="communicate">Comunicar</string>
+    <string name="share">Compartilhar</string>
+    <string name="users_list">Lista de Usuarios</string>
     <string name="mail_to_us" />
-    <string name="call_us">call us</string>
-    <string name="mail_to_usq">mail to us</string>
-    <string name="view_details">View Details</string>
-    <string name="blood">Blood</string>
-    <string name="address1">Address</string>
-    <string name="addresss">Addresss</string>
-    <string name="desription">Desription</string>
-    <string name="bloodgroup">BloodGroup</string>
-    <string name="address2">Address</string>
-    <string name="click_below_button_to_view_users_details">Click Below Button to view Users Details</string>
+    <string name="call_us">ligue para nós:</string>
+    <string name="mail_to_usq">Informe para nós:</string>
+    <string name="view_details">Ver detalhes</string>
+    <string name="blood">Sangue</string>
+    <string name="address1">Endereço</string>
+    <string name="addresss">Endereço</string>
+    <string name="desription">Descrição</string>
+    <string name="bloodgroup">Grupo sanguíneo</string>
+    <string name="address2">Endereço</string>
+    <string name="click_below_button_to_view_users_details">Clique no botão abaixo para ver os detalhes dos usuários</string>
     <string name="back"><![CDATA[Back->]]></string>
     <string name="blood_donation">Blood Donation</string>
     <string name="blood_donation_android_com">Blood Donation@android.com</string>
     <string name="button">Button</string>
-    <string name="send">Send</string>
+    <string name="send">Enviar</string>
     <string name="blooddonation_yef_com">BloodDonation@yef.com</string>
     <string name="instagram">Instagram</string>
-    <string name="your_message">Your Message</string>
-    <string name="description">Description</string>
-    <string name="hospital_name_and_location">Hospital Name and Location</string>
+    <string name="your_message">Sua mensagem</string>
+    <string name="description">Descrição</string>
+    <string name="hospital_name_and_location">Nome e localização do hospital</string>
     <string name="_9015901668">9015901668</string>
-    <string name="help">Help</string>
-    <string name="rate_app">Rate App</string>
+    <string name="help">Ajuda</string>
+    <string name="rate_app">Avaliar aplicativo</string>
     <string name="tools">Tools</string>
-    <string name="contactus">ContactUs</string>
-    <string name="callus">CallUs</string>
+    <string name="contactus">Contate-nos</string>
+    <string name="callus">Ligue para nós</string>
     <string name="userdetails">UserDetails</string>
     <string name="yefindia_gmail_com">yefindia@gmail.com</string>
-    <string name="settings">Settings</string>
-    <string name="mail">Mail</string>
-    <string name="sign_out1">Sign Out</string>
-    <string name="youth_empowerment_foundation1">YOUTH EMPOWERMENT FOUNDATION</string>
+    <string name="settings">Definições</string>
+    <string name="mail">Correspondência</string>
+    <string name="sign_out1">Sair</string>
+    <string name="youth_empowerment_foundation1">FUNDAÇÃO DE EMPODERAMENTO DA JUVENTUDE</string>
     <string name="title_activity_main" />
-    <string name="postbloodrequest">PostBloodRequest</string>
-    <string name="blooddetails">Blooddetails</string>
-    <string name="username">UserName:</string>
-    <string name="your_email">Your Email</string>
+    <string name="postbloodrequest">Pós-Solicitação de Sangue</string>
+    <string name="blooddetails">Detalhes de sangue</string>
+    <string name="username">Nome de usuário:</string>
+    <string name="your_email">Seu email</string>
     <string name="textview">TextView</string>
-    <string name="your_name">Your Name</string>
-    <string name="email_id">email</string>
+    <string name="your_name">Seu Nome</string>
+    <string name="email_id">Email</string>
     <string name="my_name">Nome</string>
     <string name="powered_by_yef">Powered By YEF</string>
     <string name="powered_by_yef1">powered_by_yef......</string>
-    <string name="poweredbyyef1">poweredbyyef1</string>
+    <string name="poweredbyyef1">poweredbyyef</string>
     <string name="search">Buscar</string>
-    <string name="myprofile">MyProfile</string>
-    <string name="myprofilee">Myprofile</string>
-    <string name="select_blood_group">Select Blood Group</string>
-    <string name="spinner_title">Select Blood Group</string>
-    <string name="enter_blood_type_required">Enter Blood Type Required</string>
+    <string name="myprofile">Meu perfil</string>
+    <string name="myprofilee">Meu perfil</string>
+    <string name="select_blood_group">Selecionar grupo sanguíneo</string>
+    <string name="spinner_title">Selecionar grupo sanguíneo</string>
+    <string name="enter_blood_type_required">Digite o tipo sanguíneo necessário</string>
     <string name="todo">TODO</string>
-    <string name="blood_donation_by_yef">Blood Donation by YEF</string>
-    <string name="remove">Remove</string>
-    <string name="mobile">Mobile</string>
-    <string name="address3">Address</string>
-    <string name="article_title">Article Title</string>
-    <string name="article_subtitle">Article Subtitle</string>
+    <string name="blood_donation_by_yef">Doação de sangue pela YEF</string>
+    <string name="remove">Remover</string>
+    <string name="mobile">Móvel</string>
+    <string name="address3">Endereço</string>
+    <string name="article_title">Título do artigo</string>
+    <string name="article_subtitle">Subtítulo do artigo</string>
     <string name="change_to_article_text">Change to Article text</string>
-    <string name="youth_empowerment_foundation">Youth Empowerment Foundation</string>
+    <string name="youth_empowerment_foundation">Fundação de Empoderamento Juvenil</string>
     <string name="aboutus">AboutUs</string>
-    <string name="youth_empowerment_foundation3">YOUTH EMPOWERMENT FOUNDATION</string>
+    <string name="youth_empowerment_foundation3">FUNDAÇÃO DE EMPODERAMENTO DA JUVENTUDE</string>
     <string name="article">article</string>
     <string name="SoftSkills" />
-    <string name="skillss">\t\t\t A skill is the ability to carry out a task with determined results often within a given amount of time,energy, or both.
-Skill usually requires certain environmental stimuli and situations to assess the level of skill being shown and used.
-\n\t\t\t Soft skills are the combination of people skills, social skills, communication skills,
-emotional intelligence and personality traits that make it easy to get along and work harmoniously with other people.
-\n\t\t\t Soft skills can be taught,but they are not as straightforward as hard skills:
-those specific qualities and skills that can be clearly defined, measured, and taught for success in a job.
-\n\t\t\t\t  Hard skills can be quantified and advanced.You can learn advanced mathematics or writing skills, and you can get better at shipping code.But when it comes to soft skills things like small talk, empathy, and flexibility it is not as straightforward.
-That does not mean soft skills are not worth investing in and practicing.
-\n\t\t You need hard skills to land a job, but you need soft skills to progress in your career.
-So we have rounded up a list of the soft skills most critical to building a successful career and how you can brush up on them.
-\t\t\t\n <b><u>Soft skills for your career are:</u></b>
-<b>\n1.Communication
-\n2.Self-Motivation
-\n3.Leadership
-\n4.Responsibility
-\n5.TeamWork
-\n6.Problem Solving
-\n7.Decision Making
-\n8.Time Management
-\n9.Flexibility
-\n10.Conflict Resolution</b>
+    <string name="TellEnter">Digite o Telefone</string>
+    <string name="skillss">\t\t\t Uma habilidade é a capacidade de realizar uma tarefa com resultados determinados, muitas vezes dentro de um determinado período de tempo, energia ou ambos.
+A habilidade geralmente requer certos estímulos e situações ambientais para avaliar o nível de habilidade que está sendo mostrado e usado.
+\n\t\t\t Soft skills são a combinação de habilidades pessoais, habilidades sociais, habilidades de comunicação,
+inteligência emocional e traços de personalidade que facilitam a convivência e o trabalho harmonioso com outras pessoas.
+\n\t\t\t As soft skills podem ser ensinadas, mas não são tão simples quanto as hard skills:
+aquelas qualidades e habilidades específicas que podem ser claramente definidas, medidas e ensinadas para o sucesso em um trabalho.
+\n\t\t\t\t As habilidades técnicas podem ser quantificadas e avançadas. Você pode aprender matemática avançada ou habilidades de escrita, e pode melhorar o código de envio. Mas quando se trata de habilidades interpessoais, como conversa fiada, empatia, e flexibilidade não é tão simples.
+Isso não significa que as soft skills não valham a pena investir e praticar.
+\n\t\t Você precisa de hard skills para conseguir um emprego, mas precisa de soft skills para progredir em sua carreira.
+Por isso, reunimos uma lista das soft skills mais críticas para construir uma carreira de sucesso e como você pode aprimorá-las.
+\t\t\t\n <b><u>Soft skills para sua carreira são:</u></b>
+<b>\n1.Comunicação
+\n2.Automotivação
+\n3.Liderança
+\n4.Responsabilidade
+\n5.Trabalho em equipe
+\n6.Resolução de problemas
+\n7.Tomada de decisão
+\n8.Gestão de Tempo
+\n9.Flexibilidade
+\n10.Resolução de conflitos</b>
 </string>
     <string name="click_here_to_learn_softskills" />
-    <string name="click_here_to_learn_softskills4">click_here_to_learn_softskills</string>
+    <string name="click_here_to_learn_softskills4">clique_aqui_para_aprender_SoftSkills</string>
     <string name="softskills1">SoftSkills</string>
-    <string name="ss">Click Here to Learn SoftSkills</string>
+    <string name="ss">Clique aqui para aprender SoftSkills</string>
     <string name="title_activity_post_feed" />
-    <string name="soft_skills">Soft Skills...</string>
-    <string name="emailid">EmailId</string>
-    <string name="post_a_job_opening">Post a Job opening</string>
+    <string name="soft_skills">Soft Skills:</string>
+    <string name="emailid">Identificação do email</string>
+    <string name="post_a_job_opening">Publicar uma vaga de emprego</string>
     <string name="job_title">Job Title</string>
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_blank_fragment">Olá fragmento em branco</string>
     <string name="title_activity_splash">SplashActivity</string>
     <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
-    <string name="second_fragment_label">Second Fragment</string>
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
+    <string name="first_fragment_label">Primeiro Fragmento</string>
+    <string name="second_fragment_label">Segundo Fragmento</string>
+    <string name="next">Próximo</string>
+    <string name="previous">Anterior</string>
 
-    <string name="hello_first_fragment">Hello first fragment</string>
-    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="hello_first_fragment">Olá primeiro fragmento</string>
+    <string name="hello_second_fragment">Olá segundo fragmento. Arg: %1$s</string>
     <string name="title_activity_cadastrar">CadastrarActivity</string>
 </resources>

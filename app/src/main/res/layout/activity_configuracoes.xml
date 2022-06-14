@@ -20,44 +20,61 @@
         <EditText
             android:id="@+id/old_email"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="46dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/fundotela"
             android:hint="@string/hint_email"
             android:inputType="textEmailAddress"
             android:maxLines="1"
-            android:singleLine="true" />
+            android:singleLine="true"
+            android:textColorHint="@color/white"
+            android:drawableLeft="@drawable/ic_baseline_email_24"
+            android:drawablePadding="20dp"/>
 
         <EditText
             android:id="@+id/new_email"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="49dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/fundotela"
             android:hint="@string/hint_new_email"
             android:inputType="textEmailAddress"
             android:maxLines="1"
-            android:singleLine="true" />
+            android:singleLine="true" android:textColorHint="@color/white"
+            android:drawableLeft="@drawable/ic_baseline_email_24"
+            android:drawablePadding="20dp"/>
 
         <EditText
             android:id="@+id/password"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="49dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/fundotela"
             android:focusableInTouchMode="true"
             android:hint="@string/password"
             android:imeActionId="@integer/customImeActionId"
             android:imeOptions="actionUnspecified"
             android:inputType="textPassword"
             android:maxLines="1"
-            android:singleLine="true" />
+            android:singleLine="true" android:textColorHint="@color/white"
+            android:drawableLeft="@drawable/ic_baseline_lock_24"
+            android:drawablePadding="20dp"/>
 
         <EditText
             android:id="@+id/newPassword"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="49dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/fundotela"
             android:focusableInTouchMode="true"
             android:hint="@string/new_password"
             android:imeActionId="@integer/customImeActionId"
             android:imeOptions="actionUnspecified"
             android:inputType="textPassword"
             android:maxLines="1"
-            android:singleLine="true" />
+            android:singleLine="true" android:textColorHint="@color/white"
+            android:drawableLeft="@drawable/ic_baseline_lock_24"
+            android:drawablePadding="20dp"/>
 
         <Button
             android:id="@+id/changeEmail"
@@ -65,9 +82,9 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_marginTop="16dp"
-            android:background="@color/colorAccent"
-            android:text="Change email"
-            android:textColor="@android:color/black"
+            android:background="@drawable/botaocustomizado"
+            android:text="@string/change_email"
+            android:textColor="@color/white"
             android:textStyle="bold" />
 
         <Button
@@ -76,10 +93,10 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_marginTop="16dp"
-            android:background="@color/colorAccent"
+            android:background="@drawable/botaocustomizado"
             android:hint="@string/change_password1"
-            android:text="Change Password"
-            android:textColor="@android:color/black"
+            android:text="@string/change_password"
+            android:textColor="@color/white"
             android:textStyle="bold" />
 
         <Button
@@ -88,9 +105,9 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_marginTop="16dp"
-            android:background="@color/colorAccent"
-            android:text="Send Reset Mail"
-            android:textColor="@android:color/black"
+            android:background="@drawable/botaocustomizado"
+            android:text="@string/send_password_reset_email"
+            android:textColor="@color/white"
             android:textStyle="bold" />
 
         <ProgressBar
@@ -104,13 +121,14 @@
         <Button
             android:id="@+id/sign_out"
             style="?android:textAppearanceSmall"
-            android:layout_width="match_parent"
+            android:layout_width="230dp"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:background="@color/colorPrimary"
             android:text="@string/btn_sign_out"
-            android:textColor="@android:color/black"
-            android:textStyle="bold" />
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:layout_gravity="center"/>
 
     </LinearLayout>
 

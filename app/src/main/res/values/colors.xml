@@ -8,7 +8,7 @@
 
     <color name="colorBackroundWhite">#f0f2ea</color>
     <color name="bg_login">#26ae90</color>
-    <color name="bg_register">#30527e</color>
+    <color name="bg_register">#78a0f0</color>
     <color name="bg_main">#5c88af</color>
     <color name="white">#ffffff</color>
     <color name="input_login">#222222</color>
@@ -20,4 +20,5 @@
     <color name="btn_login_bg">#eceef1</color>
     <color name="lbl_name">#333333</color>
     <color name="btn_logut_bg">#ff6861</color>
+    <color name="editText3">#FFFFFF</color>
 </resources>

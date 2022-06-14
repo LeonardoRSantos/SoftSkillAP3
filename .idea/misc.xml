@@ -4,6 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/leona/AndroidStudioProjects/Soft/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1795" />
+        <entry key="..\:/Users/leona/AndroidStudioProjects/Soft/app/src/main/res/drawable/botaocustomizado.xml" value="0.1525" />
+        <entry key="..\:/Users/leona/AndroidStudioProjects/Soft/app/src/main/res/drawable/fundotela.xml" value="0.1525" />
+        <entry key="..\:/Users/leona/AndroidStudioProjects/Soft/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.1525" />
+        <entry key="..\:/Users/leona/AndroidStudioProjects/Soft/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.1525" />
+        <entry key="..\:/Users/leona/AndroidStudioProjects/Soft/app/src/main/res/drawable/ic_baseline_login_24.xml" value="0.1525" />
+        <entry key="..\:/Users/leona/AndroidStudioProjects/Soft/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1525" />
+        <entry key="..\:/Users/leona/AndroidStudioProjects/Soft/app/src/main/res/drawable/ic_baseline_phone_android_24.xml" value="0.1525" />
+        <entry key="..\:/Users/leona/AndroidStudioProjects/Soft/app/src/main/res/drawable/ic_baseline_vpn_key_24.xml" value="0.1525" />
         <entry key="..\:/Users/leona/AndroidStudioProjects/Soft/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1795" />
         <entry key="..\:/Users/leona/AndroidStudioProjects/Soft/app/src/main/res/layout/activity_cadastrar.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/leona/AndroidStudioProjects/Soft/app/src/main/res/layout/activity_configuracoes.xml" value="0.27291666666666664" />
