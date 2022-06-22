@@ -7,7 +7,7 @@
         <item
             android:id="@+id/nav_soft"
             android:icon="@drawable/ss2"
-            android:title="Habilidades Comportamentais" />
+            android:title="Habilidades" />
         <item
             android:id="@+id/nav_job"
             android:icon="@drawable/job"
@@ -16,7 +16,7 @@
         <item
             android:id="@+id/nav_profile"
             android:icon="@drawable/picture"
-            android:title="MeuPerfil/TrabalhoAtualizado" />
+            android:title="Perfil" />
         <item
             android:id="@+id/nav_Settings"
             android:icon="@drawable/settings"

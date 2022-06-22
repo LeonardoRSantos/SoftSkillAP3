@@ -63,9 +63,6 @@ public class LoginActivity extends AppCompatActivity {
         // set the view now
         setContentView(R.layout.activity_login);
 
-        /*Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
-*/
         inputEmail = (EditText) findViewById(R.id.editText3);
         inputSenha = (EditText) findViewById(R.id.editText4);
         progressBar = (ProgressBar) findViewById(R.id.progressBar);

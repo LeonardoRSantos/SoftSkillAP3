@@ -31,7 +31,7 @@
     <string name="title_activity_reset_password">ResetPasswordActivity</string>
     <string name="btn_forgot_password">Esqueceu a Senha ?</string>
     <string name="btn_reset_password">Redefinir</string>
-    <string name="btn_back"><![CDATA[<< Voltar]]></string>
+    <string name="btn_back"><![CDATA[ << Voltar >> ]]></string>
     <string name="hint_new_email">Novo Email</string>
     <string name="btn_change">Mudar</string>
     <string name="btn_send">Enviar</string>
