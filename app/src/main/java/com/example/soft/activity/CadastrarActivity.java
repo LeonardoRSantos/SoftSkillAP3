@@ -111,14 +111,12 @@ public class CadastrarActivity extends AppCompatActivity {
                             public void onComplete(@NonNull Task<AuthResult> task) {
                                 Toast.makeText(CadastrarActivity.this, "E-mail criado com sucesso!" + task.isSuccessful(), Toast.LENGTH_SHORT).show();
                                 progressBar.setVisibility(View.GONE);
-                                // If sign in fails, display a message to the user. If sign in succeeds
-                                // the auth state listener will be notified and logic to handle the
-                                // signed in user can be handled in the listener.
+
                                 if (!task.isSuccessful()) {
                                     Toast.makeText(CadastrarActivity.this, "Falha ao se cadastrar!" + task.getException(),
                                             Toast.LENGTH_SHORT).show();
                                 } else {
-                                    startActivity(new Intent(CadastrarActivity.this, MainActivity.class));
+                                    startActivity(new Intent(CadastrarActivity.this, LoginActivity.class));
                                     finish();
                                 }
                             }
